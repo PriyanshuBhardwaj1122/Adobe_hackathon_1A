@@ -1,0 +1,10 @@
+# Core PDF processing library
+PyMuPDF==1.23.8
+
+# No additional dependencies required for maximum compatibility and performance
+# The solution uses only standard library modules plus PyMuPDF for optimal:
+# - Processing speed (< 10 seconds for 50 pages)
+# - Memory efficiency (< 200MB total)
+# - Cross-platform compatibility (AMD64 focus)
+# - Reliability (minimal dependency chain)
+
